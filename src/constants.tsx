@@ -452,6 +452,14 @@ export const ACHIEVEMENTS: Achievement[] = [
 
 export const IMPACT: ImpactItem[] = [
   {
+    id: "ub-deans-list",
+    title: "Dean's List Achievement",
+    context: "University at Buffalo (Official Merits Page)",
+    description: "Featured for academic excellence after earning a place on the Dean's List with a 3.66/4.0 GPA in the first semester at UB.",
+    type: "Media",
+    link: "https://www.linkedin.com/posts/trishanu-roy_trishanu-roy-named-to-university-at-buffalos-activity-7419925125669761024-4Tmy?utm_source=share&utm_medium=member_desktop&rcm=ACoAADCfICsBeKb1olSvTaH664RNvQwL4J6brHA"
+  },
+  {
     id: "gatik-pulse",
     title: "Hasthavani Innovation",
     context: "Gatik Pulse Magazine",
